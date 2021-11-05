@@ -10,7 +10,6 @@ import java.util.Collections;
 
 public class Class1 {
 
-    public final String SPECIAL_CHARACTER = "a";
 
 ​
 
@@ -22,7 +21,7 @@ public class Class1 {
 
 ​
 
-        for (int i=0;i<sentences.length;i++) {
+        for (int i=0; i<sentences.length; i++) {
 
             String[] words = sentences[i].split(" ");
 
